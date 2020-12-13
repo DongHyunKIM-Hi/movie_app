@@ -9,7 +9,8 @@ function App() {
       <Viva name="동현" />
       <Viva name="Viva" />
       <Viva name="동욱" />
-      <Viva name="동현" />
+      <Viva name="안녕하세요 " />
+      <Viva name="오늘은 엄마 생신입니다ㅏ." />
     </div>
   );
 }
